@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
   <a href="https://www.jakarta.go.id/">
-    <img src="images/Logo Jakarta.png" alt="Pemerintah Provinsi DKI Jakarta" width="80" height="80">
+    <img src="Logo Jakarta.png" alt="Pemerintah Provinsi DKI Jakarta" width="80" height="80">
   </a>
 
   <h2 align="center">Dashboard Informasi Banjir Provinsi DKI Jakarta</h3>
