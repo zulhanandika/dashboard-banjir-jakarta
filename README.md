@@ -50,17 +50,17 @@ Halaman Dashboard Informasi Banjir Provinsi DKI Jakarta dapat dibuka pada situs 
 
 <a href="https://public.tableau.com/app/profile/zulhan.andika.asyraf/viz/DashboardBanjirProvinsiDKIJakarta/Dashboard"><strong>Buka dashboard »</strong></a>
 
-Dashboard ini terdiri dari beberapa bagian, yaitu sebagai berikut.
+Dashboard ini terdiri dari beberapa bagian, yaitu sebagai berikut.\
 ![Tampilan Dashboard](images/Tampilan%20Dashboard.png)
-* Visualisasi peta banjir DKI Jakarta per kelurahan, kecamatan, kota, dan provinsi.
+* Visualisasi peta banjir DKI Jakarta per kelurahan, kecamatan, kota, dan provinsi.\
   ![Peta Banjir Jakarta](images/Peta%20Banjir%20Jakarta.png)
-* Visualisasi rata-rata jumlah cakupan terdampak yang meliputi cakupan kecamatan, kelurahan, RW, dan keluarga terdampak, baik bulanan maupun tahunan.
+* Visualisasi rata-rata jumlah cakupan terdampak yang meliputi cakupan kecamatan, kelurahan, RW, dan keluarga terdampak, baik bulanan maupun tahunan.\
   ![Jumlah Cakupan Terdampak](images/Cakupan%20Terdampak.png)
-* Visualisasi perbandingan antara rata-rata jumlah jiwa terdampak dengan rata-rata jumlah tempat pengungsian, baik bulanan maupun tahunan.
+* Visualisasi perbandingan antara rata-rata jumlah jiwa terdampak dengan rata-rata jumlah tempat pengungsian, baik bulanan maupun tahunan.\
   ![Jumlah Jiwa Terdampak dan Tempat Pengungsian](images/Jiwa%20Terdampak%20dan%20Tempat%20Pengungsian.png)
-* Visualisasi rata-rata lama genangan banjir dan ketinggian air maksimal urut dari yang tertinggi, baik bulanan maupun tahunan.
+* Visualisasi rata-rata lama genangan banjir dan ketinggian air maksimal urut dari yang tertinggi, baik bulanan maupun tahunan.\
   ![Lama Genangan Banjir](images/Lama%20Genangan.png)
-* Visualisasi jumlah korban tahunan yang meliputi korban meninggal, hilang, luka berat, dan luka ringan, baik urut dari yang tertinggi maupun urut waktu.
+* Visualisasi jumlah korban tahunan yang meliputi korban meninggal, hilang, luka berat, dan luka ringan, baik urut dari yang tertinggi maupun urut waktu.\
   ![Jumlah Korban Urut Tertinggi](images/Jumlah%20Korban%20Urut%20Tertinggi.png)
   ![Jumlah Korban Urut Waktu](images/Jumlah%20Korban%20Urut%20Waktu.png)
 
