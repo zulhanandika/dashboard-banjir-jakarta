@@ -108,7 +108,7 @@ Tahapan pengembangan Dashboard Informasi Banjir Provinsi DKI Jakarta sebagai ber
    |`jumlah_terdampak_jiwa`| jumlah orang yang terkena dampak banjir|
    |`ketinggian_air`| ketinggian air pada saat kejadian banjir (cm)|
    |`tanggal_kejadian`| tanggal kejadian banjir|
-   |`lama_genangan`|: lama genangan saat banjir (hari)|
+   |`lama_genangan`| lama genangan saat banjir (hari)|
    |`jumlah_meninggal`| jumlah korban meninggal saat kejadian banjir|
    |`jumlah_hilang`| jumlah korban hilang saat kejadian banjir|
    |`jumlah_luka_berat`| jumlah korban luka berat saat kejadian banjir|
